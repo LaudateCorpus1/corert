@@ -264,6 +264,9 @@
     <Compile Include="..\..\JitInterface\src\CorInfoTypes.cs">
       <Link>JitInterface\CorInfoTypes.cs</Link>
     </Compile>
+	    <Compile Include="..\..\JitInterface\src\PrimitiveTypeDescriptor.cs">
+      <Link>JitInterface\PrimitiveTypeDescriptor.cs</Link>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CppCodeGen\ILToCppImporter.cs" />
